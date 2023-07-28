@@ -23,7 +23,7 @@ body {
     cursor: pointer;
 }
 
-.right {
+.left {
     transform: rotate(180deg);
 }
 
